@@ -12,7 +12,7 @@ This project demonstrates key blockchain principles through simple JavaScript si
 
 ## File Descriptions
 
-* `Blochain_simulation.js`: Simulates the creation and linking of blocks in a blockchain.
+* `Blockchain_simulation.js`: Simulates the creation and linking of blocks in a blockchain.
 * `consensus_demo.js`: Demonstrates a consensus algorithm to achieve agreement among nodes.
 * `mining_simulation.js`: Simulates the mining process, including proof-of-work and block validation.
 
@@ -36,7 +36,7 @@ This project demonstrates key blockchain principles through simple JavaScript si
    node mining_simulation.js
    ```
 
-
+Task - 2 Added to Repository 
 
 ## Requirements
 
